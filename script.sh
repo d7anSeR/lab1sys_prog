@@ -8,6 +8,7 @@ head -c 256 /dev/urandom > 3.txt
 ln 3.txt 1.txt
 ln -s 3.txt 2.txt
 
+
 cd ../
 cd D
 truncate -s 256 4.txt

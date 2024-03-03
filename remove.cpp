@@ -9,6 +9,7 @@
 #include<math.h>
 #include<cstring>
 
+
 int main(){
     chdir("A");
     chdir("B");

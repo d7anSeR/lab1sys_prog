@@ -9,6 +9,7 @@
 #include<math.h>
 #include<cstring>
 
+
 int main(){
     int flagA = mkdir("A", S_IRWXU);
     int flagB = -1, flagC = -1, flagD = -1;
